@@ -16,11 +16,11 @@
 .theme-dark,
 .theme-light,
 :root {
-   --background-primary: #141414 !important;
-   --background-secondary: #111111 !important;
-   --background-secondary-alt: #292929 !important;
-   --background-tertiary: #0c0c0c !important;
-   --background-accent: #242424 !important;
+   --background-primary: #252525 !important;
+   --background-secondary: #1b1b1b !important;
+   --background-secondary-alt: #191919 !important;
+   --background-tertiary: #131313 !important;
+   --background-accent: #313131 !important;
    --background-floating: black !important;
    --background-modifier-hover: rgba(255, 255, 255, 0.01) !important;
    --background-modifier-active: rgba(255, 255, 255, 0.03) !important;

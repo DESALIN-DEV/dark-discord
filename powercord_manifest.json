@@ -1,9 +1,0 @@
-{
-   "name": "Dark Discord",
-   "description": "An actual dark mode for discord.",
-   "version": "1.0.0",
-   "author": "hellbound#9999",
-   "theme": "DarkDiscord.theme.css",
-   "splashTheme": "splash.css",
-   "license": "Unlicensed"
-}

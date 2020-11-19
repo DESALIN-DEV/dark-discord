@@ -1,13 +1,12 @@
 /**
 
  * @name Dark Discord
- * @version 1.0
- * @description An actual dark mode for discord.
- * @source https://github.com/hellbound1337/dark-discord
- * @authorId 426147523305144322
- * @author hellbound
- * @donate https://paypal.me/zzzmario
- * @invite pCc7q4Z
+ * @version 1.5
+ * @description dark themes discord, 2020
+ * @source https://github.com/DESALIN-DEV/dark-discord
+ * @authorId 349244270835662858
+ * @author DESALIN
+ * @invite ppQ7XTc88U
 
 **/
 
@@ -47,4 +46,12 @@
    --toast-contents: var(--background-secondary) !important;
    --toast-box-shadow: rgba(0, 0, 0, 0.2) !important;
    --toast-border: var(--background-tertiary) !important;
+   --section-2gLsgF: background: #252525 !important;
+   --peopleColumn-29fq28: background: #252525 !important;
+   --scrollbar-thin-thumb: #151515 !important;
+   --scrollbar-thin-track: transparent !important;
+   --scrollbar-auto-thumb: #404040 !important;
+   --scrollbar-auto-track: #15151596 !important;
+   --scrollbar-auto-scrollbar-color-thumb: #1d1d1d !important;
+   --scrollbar-auto-scrollbar-color-track: #2f2f2f !important;
 }

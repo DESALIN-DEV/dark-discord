@@ -1,6 +1,6 @@
-# Dark Discord [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/dark-discord/badge)](https://www.codefactor.io/repository/github/hellbound1337/dark-discord)
+# Dark Discord 
 An actual dark mode for discord.
 
 
 # Preview
-<img src="https://i.imgur.com/ehSSS0U.png"/>
+<img src="https://i.ibb.co/Yf3t0ht/image.png"/>
